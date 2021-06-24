@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Iunia. 
-- 👀 I’m interested in Data Science and Machine Learning. 
-- 🌱 I’m currently learning more about data engineering and causal inference in Machine Learning. 
-- 💞️ I’m looking to collaborate on interesting projects. 
-- 📫 How to reach me: iuniaburlan28@yahoo.com
+- 👀 I am studying towards a Master's programme in Data Science at UCL and, at the moment, am working on my thesis in causal inference in Machine Learning.   
+- 📫 How to reach me: iuniaburlan28@yahoo.com/ https://www.linkedin.com/in/iunia-burlan-1aa557a7/. 
 
 <!---
 iuniab/iuniab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
